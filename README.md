@@ -242,3 +242,4 @@ Response:
   "following": "string"
 }
 ```
+Автор: [К.Гурашкин](<https://github.com/CrockoMan>)
